@@ -1,0 +1,7 @@
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\bin\Debug\MyGitTest.exe.config
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\bin\Debug\MyGitTest.exe
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\bin\Debug\MyGitTest.pdb
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\obj\Debug\MyGitTest.csprojAssemblyReference.cache
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\obj\Debug\MyGitTest.csproj.CoreCompileInputs.cache
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\obj\Debug\MyGitTest.exe
+C:\Users\Akis\source\repos\MyGitTest\MyGitTest\MyGitTest\obj\Debug\MyGitTest.pdb
